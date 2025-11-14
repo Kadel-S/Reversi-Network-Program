@@ -1,5 +1,5 @@
 # Reversi-Network-Program
-Peer-To-Peer Java program that performs matchmaking with UDP messaging that allows players to connect to each other over the local network. Upon connection, players are able to play Reversi against each other, with the moves are communciated between players through TCP communication. The program provides players with their possible moves when it is their turn and presents a game board in the terminal showing the current state of the board for the game.
+Peer-To-Peer Java program that performs matchmaking with UDP messaging that allows players to connect to each other over the local network. Upon connection, players are able to play Reversi against each other, where the moves are communciated between players through TCP communication. The program provides players with their possible moves when it is their turn and presents a game board in the terminal showing the current state of the board for the game.
 
 To compile in terminal:
 javac Reversi.java
